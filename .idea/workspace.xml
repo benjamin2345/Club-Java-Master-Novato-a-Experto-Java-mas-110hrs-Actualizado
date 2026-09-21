@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea52497e-2469-49ee-b70f-c683bea2ef9d" name="Changes" comment="" />
+    <list default="true" id="129a5ed5-65e8-4ebd-be2d-2e00baf97524" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
+  "associatedIndex": 8,
   "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3Je63HIkf5wTdzczS3oe9vkgwO4" />
+  <component name="ProjectId" id="3Je4vDp6v6ngFgy0qQS9Ut5ELJa" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -26,7 +19,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.HolaMundo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -36,20 +28,6 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
-      <module name="IntroduccionJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.HolaMundo" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,11 +38,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea52497e-2469-49ee-b70f-c683bea2ef9d" name="Changes" comment="" />
-      <created>1790008985713</created>
+      <changelist id="129a5ed5-65e8-4ebd-be2d-2e00baf97524" name="Changes" comment="" />
+      <created>1790008428421</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1790008985713</updated>
+      <updated>1790008428421</updated>
     </task>
     <servers />
   </component>
